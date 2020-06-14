@@ -1,5 +1,9 @@
 # NJIT-IS601-850-Python-Docker-PyCharm-Homework
 
+Monica Nelson  
+IS601-850  
+Summer 2020
+
 ## Homework Description
 
 For this assignment, you need to follow the video and create your own project that uses Git, Python, PyCharm, and Docker.  Essentially, recreate on your own a very simple program or reuse the code from the previous Docker example or assignment that demonstrates successfully setting up your project to use these tools.  There is no requirement for the code other than it is Python and works.  You can reuse the code from the video as well.
